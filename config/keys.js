@@ -1,4 +1,4 @@
-// Database access
+// Database access keys
 
 module.exports = {
 
